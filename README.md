@@ -21,6 +21,7 @@ I participated in the Road to Data Engineer course from DataTH.com. This compreh
 # Dashboard
 
 Dashboard 1: Overview 
+
 Contains:
 - Business income
 - Number of purchases in top 10 countries
@@ -31,6 +32,7 @@ Contains:
 
 
 Dashboard 2 Search book by revenue 
+
 Search system for books based on sales:
 - Can select the country and sales data to search for
 - Displays only books that meet the search criteria
