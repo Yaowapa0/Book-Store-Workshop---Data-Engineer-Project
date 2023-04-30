@@ -18,7 +18,7 @@ I participated in the Road to Data Engineer course from DataTH.com. This compreh
 ![image](https://user-images.githubusercontent.com/122316012/235368416-a1d3c965-b7cf-4a17-9278-88f348863676.png)
 
 
-# Dashboard
+# Dashboard on Looker Studio
 
 Dashboard 1: Overview 
 
