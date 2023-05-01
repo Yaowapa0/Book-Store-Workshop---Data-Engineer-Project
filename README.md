@@ -1,4 +1,4 @@
-# Book Store Workshop Data Engineer Project
+# Book Store Workshop - Data Engineer Project
 
 
 I participated in the Road to Data Engineer course from DataTH.com. This comprehensive program covers the fundamentals and advanced concepts of the Data Engineer track and includes workshops for each chapter. By utilizing cutting-edge technologies that are currently in demand, we can apply this knowledge to construct our own end-to-end Data Pipeline.
