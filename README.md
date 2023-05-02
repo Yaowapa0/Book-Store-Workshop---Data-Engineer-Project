@@ -6,7 +6,7 @@ I participated in the Road to Data Engineer course from DataTH.com. This compreh
 ->> [LINK to my Looker Studio Dashboard](https://lnkd.in/e38KVeep)
 
 
-# Course Curriculum
+## Course Curriculum
 
 * Workshop 1: Data Collection with Python (Google Colab), Pandas, REST API
 * Workshop 2: Data Wrangling, Data Cleansing with Apache Spark (Colab and PySpark)
@@ -18,7 +18,7 @@ I participated in the Road to Data Engineer course from DataTH.com. This compreh
 ![image](https://user-images.githubusercontent.com/122316012/235368416-a1d3c965-b7cf-4a17-9278-88f348863676.png)
 
 
-# Dashboard on Looker Studio
+## Dashboard on Looker Studio
 
 Dashboard 1: Overview 
 
@@ -39,6 +39,6 @@ Search system for books based on sales:
 
 ![image](https://user-images.githubusercontent.com/122316012/235368787-e389fe73-1daf-4c00-8fcb-65040692b020.png)
 
-# Reference
+## Reference
 
 [Road to Data Engineer(R2DE) at DataTH School](https://school.datath.com/courses/road-to-data-engineer-2)
